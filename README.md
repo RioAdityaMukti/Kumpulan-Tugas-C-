@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./LOGO HIMATIK.jpg" alt="logo himatik">
 </p>
 <h1 align="center">
   <b>KUMPULAN TUGAS C++</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
+<b>semua ini digunakan dalam c++.</b>
