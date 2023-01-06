@@ -6,3 +6,37 @@
 </h1>
 
 <b>semua ini digunakan dalam c++.</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Made with 💕 by [@RioAdityaMukti].(https://t.me/TeamUltroid).                                      
