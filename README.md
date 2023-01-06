@@ -10,49 +10,12 @@
 # LISENSI
 [![LISENSI](https://tse1.mm.bing.net/th?id=OIP.eEF4IGmeI2XBKsqws2-n3AHaBJ&pid=Api&P=0)](LISENSI)
 
-## Session String
-Different ways to get your `SESSION`:
-* [![INSTAGRAM](https://instagram/sesilia.putri.543)](https://instagram/sesilia.putri.543)
-* Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
 
 
 
-
-
-
-
-
-
-<b>semua ini digunakan dalam c++.</b>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# PROGRAM BISA DI COMPILE SECARA ONLINE
+![programiz](https://user-images.githubusercontent.com/122080098/210964801-fc4d17a4-204c-49ed-8ca8-fbb4cc2dd214.jpg)
 
 
 
