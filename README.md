@@ -8,7 +8,7 @@
 
 
 # LISENSI
-[![LISENSI](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
+[![LISENSI](https://tse1.mm.bing.net/th?id=OIP.eEF4IGmeI2XBKsqws2-n3AHaBJ&pid=Api&P=0)](LICENSE)   
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 
