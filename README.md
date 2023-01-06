@@ -39,4 +39,4 @@
 
 
 
-> Made with 💕 by [@RioAdityaMukti](https://t.me/TeamUltroid).                                      
+> Made with 💕 by [@RioAdityaMukti](https://t.me/xyzcoco).                                      
