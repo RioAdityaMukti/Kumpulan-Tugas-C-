@@ -8,7 +8,7 @@
 
 
 # DIBUAT UNTUK BERSAMA
-[![LISENSI](https://tse1.mm.bing.net/th?id=OIP.eEF4IGmeI2XBKsqws2-n3AHaBJ&pid=Api&P=0)]
+[![LISENSI](https://tse1.mm.bing.net/th?id=OIP.eEF4IGmeI2XBKsqws2-n3AHaBJ&pid=Api&P=0)](LISENSI)
 
 
 
