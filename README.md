@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./REPO/LOGO HIMATIK.jpg" alt="logo himatik">
+  <img src="./REPO/KUMPULAN.png" alt="logo himatik">
 </p>
 <h1 align="center">
   <b>KUMPULAN TUGAS C++</b>
