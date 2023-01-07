@@ -7,9 +7,8 @@
 
 
 
-# LISENSI
-[![LISENSI](https://tse1.mm.bing.net/th?id=OIP.eEF4IGmeI2XBKsqws2-n3AHaBJ&pid=Api&P=0)](LISENSI)
-
+# INFORMATION
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-/LISENSI)                       [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-)
 
 
 
