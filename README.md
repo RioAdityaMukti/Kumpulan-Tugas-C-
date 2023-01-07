@@ -8,7 +8,7 @@
 
 
 # INFORMATION
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-/LISENSI)                       [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-/blob/main/LISENSI)                       [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RioAdityaMukti/Kumpulan-Tugas-C-)
 
 
 
