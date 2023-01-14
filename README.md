@@ -14,7 +14,7 @@
 
 
 # PROGRAM BISA DI COMPILE SECARA ONLINE
-![programiz](https://user-images.githubusercontent.com/122080098/210964801-fc4d17a4-204c-49ed-8ca8-fbb4cc2dd214.jpg)(https://www.programiz.com/cpp-programming/online-compiler)
+(https://www.programiz.com/cpp-programming/online-compiler)
 
 
 
